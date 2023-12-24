@@ -17,5 +17,5 @@ Steps/tutorials:
  Default username: runneradmin
  Default password: P@ssw0rd!
 
-Connect to your rdp using remote desktop connection
+Connect to your rdp using remote desktop connection.
 If you use android phone or iPhone, download rd client on play store/app store.
