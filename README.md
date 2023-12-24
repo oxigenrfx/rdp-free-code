@@ -13,7 +13,8 @@ Steps/tutorials:
 10. Go to actions > all workflows > select Windows - RDP Over Ngrok
 11. Click run workflow then click the green button named "Run workflow"
 12. Click "Windows - RDP Over Ngrok" > build
-13. Get your ip address
+13. Get your ip address.
+ 
  Default username: runneradmin
  Default password: P@ssw0rd!
 
